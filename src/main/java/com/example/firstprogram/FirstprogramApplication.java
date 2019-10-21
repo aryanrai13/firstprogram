@@ -12,6 +12,7 @@ public class FirstprogramApplication {
 
 		System.out.println("Now the output is visible!");
 		System.out.println("Now the output is again visible!");
+		System.out.println("insert 3");
 	}
 
 }
