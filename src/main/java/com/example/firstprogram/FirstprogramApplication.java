@@ -11,6 +11,7 @@ public class FirstprogramApplication {
 		SpringApplication.run(FirstprogramApplication.class, args);
 
 		System.out.println("Now the output is visible!");
+		System.out.println("Now the output is again visible!");
 	}
 
 }
