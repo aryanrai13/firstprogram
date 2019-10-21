@@ -5,7 +5,7 @@ node {
         }
      
      stage('Compile package choti') {
-        bat 'mvn package'
+        sh 'mvn package'
         }
    
 }
